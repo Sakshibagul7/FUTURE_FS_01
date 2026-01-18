@@ -265,12 +265,4 @@ For support, email support@engagehub.com or open an issue on GitHub.
 - [ ] Two-factor authentication
 
 ---
-
-## 📞 Contact
-
-- **Email:** shewalejatin427@gmail.com
-- **GitHub:** https://github.com/jatin-shewale/EngageHub
-
----
-
 **Made with ❤️ by EngageHub Team**
